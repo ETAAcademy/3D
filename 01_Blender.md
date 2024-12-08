@@ -1076,5 +1076,5 @@ This article compares four major 3D software—Blender, 3ds Max, CINEMA 4D, and 
 Blender offers powerful tools for animation, rendering, video editing, and compositing, supporting everything from motion graphics to complex character work. Its rendering engines, Eevee and Cycles, balance speed and photorealism, while Geometry Nodes revolutionize procedural workflows. The Python API enables developers to automate complex tasks and create dynamic scenes efficiently. Additionally, AI integration enhances workflows with features like automatic modeling and texture generation, making Blender a comprehensive and innovative platform for beginners and professionals alike.
 
 <div align="center"> 
-<img src="images/01_blender.gif" width="50%" />
+<img src="image/01_Blender.gif" width="50%" />
 </div>
